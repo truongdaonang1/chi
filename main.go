@@ -1,7 +1,3 @@
-package main
+package chi
 
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, Bounty Hunter!")
-}
+// Package chi provides a lightweight, idiomatic and composable router for building Go HTTP services.
